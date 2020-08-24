@@ -1,2 +1,2 @@
 # recipebook
-React-Redux Recipes app
+React-Redux recipes app: https://qrppablo.github.io/recipebook
